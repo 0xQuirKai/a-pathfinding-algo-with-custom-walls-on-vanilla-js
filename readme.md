@@ -7,6 +7,9 @@
 
 Peter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now SRI International) first published the algorithm in 1968. It can be seen as an extension of Dijkstra's algorithm. A* achieves better performance by using heuristics to guide its search. 
 
+- [Python Implementation](https://github.com/0xQuirkai/a-pathfinding-algo-with-custom-walls-on-Python)
+
+
 ![This is an image](https://i.postimg.cc/t4pJrtPt/Screenshot-3.png)
 
 
